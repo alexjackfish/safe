@@ -1,0 +1,1680 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://kv-inet-gw.corp.ukrtelecom.loc/UserCheck/PortalMain?IID=EF96574C-6689-052C-A12F-D8C90FDF2EA2&origUrl=aHR0cHM6Ly93d3cucG9ybmh1Yi5jb20v
+Subject: Check Point UserCheck
+Date: Sat, 10 Apr 2021 22:29:41 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--oAjhBYkXaWrHnNLXZRUaVYwfcn0q0JxPXkfR4nrDx5----"
+
+
+------MultipartBoundary--oAjhBYkXaWrHnNLXZRUaVYwfcn0q0JxPXkfR4nrDx5----
+Content-Type: text/html
+Content-ID: <frame-392DB0E47C3A324764ADFA734A460A0D@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://kv-inet-gw.corp.ukrtelecom.loc/UserCheck/PortalMain?IID=EF96574C-6689-052C-A12F-D8C90FDF2EA2&origUrl=aHR0cHM6Ly93d3cucG9ybmh1Yi5jb20v
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/htm=
+l4/strict.dtd"><html><head><meta http-equiv=3D"Content-Type" content=3D"tex=
+t/html; charset=3DUTF-8">
+		<meta name=3D"robots" content=3D"noindex,nofollow">
+		<meta content=3D"yes" name=3D"apple-mobile-web-app-capable">
+        =09
+	=09
+		<link rel=3D"icon" type=3D"image/vnd.microsoft.icon" href=3D"https://kv-i=
+net-gw.corp.ukrtelecom.loc/UserCheck/img/favicon.ico">                     =
+     <link rel=3D"shortcut icon" type=3D"image/vnd.microsoft.icon" href=3D"=
+https://kv-inet-gw.corp.ukrtelecom.loc/UserCheck/img/favicon.ico">         =
+		<link rel=3D"manifest" href=3D"https://kv-inet-gw.corp.ukrtelecom.loc/Use=
+rCheck/manifest.json">
+
+		<link id=3D"dynamicCSS" rel=3D"stylesheet" type=3D"text/css" href=3D"http=
+s://kv-inet-gw.corp.ukrtelecom.loc/UserCheck/css/Blob_dynamic_css">
+		<link id=3D"staticCSS" rel=3D"stylesheet" type=3D"text/css" href=3D"https=
+://kv-inet-gw.corp.ukrtelecom.loc/UserCheck/css/Blob_static.css">
+
+	=09
+				<link type=3D"text/css" rel=3D"stylesheet" href=3D"https://kv-inet-gw.c=
+orp.ukrtelecom.loc/UserCheck/css/UserCheckCSS">
+	=09
+	=09
+	=09
+       =20
+		<title>Check Point UserCheck</title>
+	</head>
+
+	<body class=3D"usercheck_body_background_class" unselectable=3D"on">
+	=09
+
+				<div id=3D"portalErrorMessage" class=3D"portalErrorMessageDivHide">
+
+		<table cellpadding=3D"0px" cellspacing=3D"0px" class=3D"portalErrorMessag=
+eTableContainer" width=3D"100%">
+			<tbody><tr>
+				<td align=3D"center">
+
+					<table cellpadding=3D"0px" cellspacing=3D"0px" class=3D"portalErrorMes=
+sageTable">
+
+						<tbody><tr id=3D"portalErrorMessage_title_container_row" class=3D"por=
+talMessage_title show" width=3D"100%">
+							<td id=3D"portalErrorMessage_title_container" height=3D"10px" valign=
+=3D"middle" align=3D"left" colspan=3D"2">&nbsp;</td>
+						</tr>
+
+						<tr>
+							<td id=3D"portalErrorMessage_container" align=3D"left" style=3D"padd=
+ing: 10px;" colspan=3D"2">&nbsp;</td>
+						</tr>
+					=09
+						<tr>
+
+							<td>
+								<table cellpadding=3D"0px" cellspacing=3D"0px" width=3D"100%" style=
+=3D" padding: 10px;">
+									<tbody><tr>
+										<td id=3D"portalMessage_error_report_container" align=3D"left" va=
+lign=3D"buttom" class=3D"hide">
+											<span id=3D"portalMessage_error_report_link" class=3D"portal_lin=
+k" style=3D"left: 10px;">
+												Send error report											</span>
+										</td>
+										<td id=3D"portalMessage_error_button_container" align=3D"right" h=
+eight=3D"10px;" valign=3D"buttom">
+											<button id=3D"portalErrorMessage_button" class=3D"portalErrorMes=
+sage_button">
+												OK											</button>
+										</td>
+									</tr>
+								</tbody></table>
+							</td>
+
+						</tr>
+
+					</tbody></table>
+
+				</td>
+			</tr>
+		</tbody></table>
+
+	</div>
+=09
+
+		<div id=3D"portalMessage" class=3D"portalMessageDivHide">
+
+		<table cellpadding=3D"0px" cellspacing=3D"0px" class=3D"portalMessageTabl=
+eContainer" width=3D"100%">
+			<tbody><tr>
+				<td align=3D"center">
+
+					<table cellpadding=3D"0px" cellspacing=3D"0px" class=3D"portalMessageT=
+able">
+
+						<tbody><tr id=3D"portalMessage_title_container_row" class=3D"portalMe=
+ssage_title show">
+							<td id=3D"portalMessage_title_container" class=3D"portalMessage_titl=
+e_td" valign=3D"middle" align=3D"left">
+								&nbsp;
+							</td>
+						</tr>
+
+						<tr>
+							<td id=3D"portalMessage_container" align=3D"left" style=3D"padding: =
+10px;">
+								&nbsp;
+							</td>
+						</tr>
+
+						<tr id=3D"portalMessage_textarea_container_row" class=3D"hide">
+							<td id=3D"portalMessage_textarea_container" align=3D"left" style=3D"=
+padding: 10px;">
+							</td>
+						</tr>
+
+						<tr id=3D"portalMessage_validation_message_container_row" class=3D"sh=
+ow">
+							<td id=3D"portalMessage_validation_message_container" align=3D"left"=
+ class=3D"portalMessage_validation_submessage" style=3D"padding: 10px;">
+								&nbsp;
+							</td>
+						</tr>
+
+						<tr id=3D"portalMessage_submessage_container_row" class=3D"hide">
+							<td id=3D"portalMessage_submessage_container" align=3D"left" class=
+=3D"portalMessage_submessage" style=3D"padding: 10px;">
+								&nbsp;
+							</td>
+						</tr>
+
+						<tr>
+							<td align=3D"center" height=3D"10px;" valign=3D"buttom" style=3D"pad=
+ding: 10px;" colspan=3D"2">
+								<div id=3D"portalMessage_ok_button_container" class=3D"show" style=
+=3D"text-align: right;">
+									<button id=3D"portalMessage_button" class=3D"portalMessage_button"=
+>
+										OK									</button>
+								</div>
+
+								<div id=3D"portalMessage_bool_button_container" class=3D"hide">
+									<button id=3D"portalMessage_yes_button" class=3D"portalMessage_but=
+ton">
+										BUTTON.YES									</button>
+									&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+									<button id=3D"portalMessage_no_button" class=3D"portalMessage_butt=
+on">
+										BUTTON.NO									</button>
+								</div>
+
+								<div id=3D"portalMessage_submit_button_container" class=3D"hide">
+									<button id=3D"portalMessage_submit_button" class=3D"portalMessage_=
+button">
+										BUTTON.SUBMIT									</button>
+									&nbsp;&nbsp;&nbsp;
+									<button id=3D"portalMessage_cancel_button" class=3D"portalMessage_=
+button">
+										Cancel									</button>
+								</div>
+							</td>
+						</tr>
+					</tbody></table>
+
+				</td>
+			</tr>
+		</tbody></table>
+
+	</div>
+=09
+
+		<div id=3D"portalGeneralContainer" class=3D"portalMessageDivHide">
+
+		<table cellpadding=3D"0px" cellspacing=3D"0px" class=3D"portalMessageTabl=
+eContainer" width=3D"100%">
+			<tbody><tr>
+				<td align=3D"center">
+
+					<table cellpadding=3D"0px" cellspacing=3D"0px" class=3D"portalMessageT=
+able">
+
+						<tbody><tr id=3D"portalGeneralContainer_title_container_row" class=3D=
+"portalMessage_title show" width=3D"100%">
+							<td id=3D"portalGeneralContainer_title_container" height=3D"10px" va=
+lign=3D"middle" align=3D"left">
+								&nbsp;
+							</td>
+						</tr>
+
+						<tr>
+							<td id=3D"portalGeneralContainer_container" align=3D"left" style=3D"=
+padding: 10px;">
+								&nbsp;
+							</td>
+						</tr>
+
+					</tbody></table>
+
+				</td>
+			</tr>
+		</tbody></table>
+
+	</div>
+=09
+
+	<div id=3D"PortalErrorScreenShader" class=3D"screenShaderHide">
+		<table cellpadding=3D"0px" cellspacing=3D"0px" width=3D"100%" height=3D"1=
+00%">
+			<tbody><tr>
+				<td>&nbsp;</td>
+			</tr>
+		</tbody></table>
+	</div>
+
+
+
+	<div id=3D"PortalScreenShader" class=3D"screenShaderHide">
+		<table cellpadding=3D"0px" cellspacing=3D"0px" width=3D"100%" height=3D"1=
+00%">
+			<tbody><tr>
+				<td>&nbsp;</td>
+			</tr>
+		</tbody></table>
+	</div>
+
+
+		<div id=3D"portal_main_view" class=3D"div_expanded" unselectable=3D"on">
+			<table height=3D"100%" width=3D"100%" border=3D"0" cellpadding=3D"0" cel=
+lspacing=3D"0" class=3D"">
+				<tbody><tr>
+					<td id=3D"portal_center_div" valign=3D"top" unselectable=3D"on" class=
+=3D"usercheck_main_background_class">
+						<div id=3D"portal_top_pane_div" class=3D"usercheck_header_class">
+						=09
+<!--position: fixed; bottom: -1px; left: 50%; margin-left: -435px; -->
+
+<img class=3D"usercheck_company_logo_class" id=3D"usercheck_company_logo" s=
+rc=3D"https://kv-inet-gw.corp.ukrtelecom.loc/UserCheck/images/interactions/=
+%7B4AFE3457-43ED-4799-9571-E8BF3BA2E57E%7D.png"><table width=3D"100%" cellp=
+adding=3D"0" cellspacing=3D"0" class=3D"usercheck_header_table_class userch=
+eck_content_table_class">
+	<!--<tr>
+		<td id=3D"usercheck_header_right_logo" class=3D"usercheck_header_right_cl=
+ass" unselectable=3D"on">-->
+		=09
+		<!--</td>
+	</tr>-->
+</table>
+						</div>
+						<div class=3D"usercheck_message_icon_class" id=3D"usercheck_img_div" =
+unselectable=3D"on"><img src=3D"https://kv-inet-gw.corp.ukrtelecom.loc/User=
+Check/img/block.png"></div>
+						<div id=3D"usercheck_title_div" class=3D"usercheck_title_class" unsel=
+ectable=3D"on" style=3D"color: rgb(237, 85, 82);">=D0=94=D0=BE=D1=81=D1=82=
+=D1=83=D0=BF =D0=BA =D1=81=D0=B0=D0=B9=D1=82=D1=83 =D0=B7=D0=B0=D0=B1=D0=BB=
+=D0=BE=D0=BA=D0=B8=D1=80=D0=BE=D0=B2=D0=B0=D0=BD.</div>					=09
+						<div style=3D"text-align: center;" unselectable=3D"on">
+							<table id=3D"usercheck_content_table" cellpadding=3D"0" cellspacing=
+=3D"0" class=3D"usercheck_content_table_class">
+						<tbody><tr>
+									<td>
+										<div id=3D"usercheck_main_div" class=3D"usercheck_message_class" =
+unselectable=3D"on"><span lang=3D"UK">&nbsp;=20
+<p><span lang=3D"UK">&nbsp;=D0=94=D0=BE=D1=81=D1=82=D1=83=D0=BF&nbsp;=D0=BA=
+ =D1=81=D0=B0=D0=B9=D1=82=D1=83&nbsp;<span id=3D"orig_url" class=3D"smartFi=
+eld orig_url" xcontenteditable=3D"false" unselectable=3D"on"></span> =D0=B7=D0=B0=D0=B1=D0=BB=D0=BE=D0=BA=D0=B8=D1=80=D0=BE=D0=
+=B2=D0=B0=D0=BD&nbsp;=D1=81=D0=BE=D0=B3=D0=BB=D0=B0=D1=81=D0=BD=D0=BE&nbsp;=
+=D0=BF=D1=80=D0=B8=D0=BA=D0=B0=D0=B7=D1=83 =E2=84=96304-H-HO =D0=BE=D1=82 1=
+7.08.2020 =D0=BA=D0=BE=D0=BC=D0=BF=D0=B0=D0=BD=D0=B8=D0=B8 =D0=9F=D0=90=D0=
+=9E =C2=AB=D0=A3=D0=BA=D1=80=D1=82=D0=B5=D0=BB=D0=B5=D0=BA=D0=BE=D0=BC=C2=
+=BB.</span></p>
+<p dir=3D"ltr" align=3D"left">=E3=80=80</p><span lang=3D"UK">
+<p dir=3D"ltr" align=3D"left">=D0=95=D1=81=D0=BB=D0=B8 =D0=92=D1=8B =D1=81=
+=D1=87=D0=B8=D1=82=D0=B0=D0=B5=D1=82=D0=B5 =D1=87=D1=82=D0=BE =D0=B1=D0=BB=
+=D0=BE=D0=BA=D0=B8=D1=80=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D0=B5 =D0=B2=D1=8B=
+=D0=BF=D0=BE=D0=BB=D0=BD=D0=B5=D0=BD=D0=BE =D0=BE=D1=88=D0=B8=D0=B1=D0=BE=
+=D1=87=D0=BD=D0=BE, =D1=81=D0=BE=D0=B7=D0=B4=D0=B0=D0=B9=D1=82=D0=B5 =D0=B7=
+=D0=B0=D1=8F=D0=B2=D0=BA=D1=83 =D0=BD=D0=B0 =D0=B8=D0=B7=D0=BC=D0=B5=D0=BD=
+=D0=B5=D0=BD=D0=B8=D0=B5 =D0=BA=D0=B0=D1=82=D0=B5=D0=B3=D0=BE=D1=80=D0=B8=
+=D0=B8 =D1=81=D0=B0=D0=B9=D1=82=D0=B0 =D1=87=D0=B5=D1=80=D0=B5=D0=B7 <a hre=
+f=3D"http://servicedesk.ukrtelecom.net/"><font face=3D"Segoe UI"><span lang=
+=3D"UK">http://servicedesk.ukrtelecom.net</span></font></a><font color=3D"#=
+1b2f5b" face=3D"Segoe UI"><font color=3D"#1b2f5b" face=3D"Segoe UI"><span l=
+ang=3D"UK">&nbsp;</span></font></font><font color=3D"#1b2f5b" face=3D"Segoe=
+ UI"><font color=3D"#1b2f5b" face=3D"Segoe UI"><font color=3D"#000000">=D0=
+=B8=D0=BB=D0=B8 =D0=BF=D0=BE =D1=81=D1=81=D1=8B=D0=BB=D0=BA=D0=B5: </font><=
+a href=3D"http://servicedesk.ukrtelecom.net:8080/WorkOrder.do?reqTemplate=
+=3D1805">http://servicedesk.ukrtelecom.net:8080/WorkOrder.do?reqTemplate=3D=
+1805</a></font></font></p></span><font color=3D"#1b2f5b" face=3D"Segoe UI">=
+<font color=3D"#1b2f5b" face=3D"Segoe UI"><span lang=3D"UK">
+<p dir=3D"ltr" align=3D"left"><font color=3D"#000000">=D0=B4=D0=BE=D0=B1=D0=
+=B0=D0=B2=D1=8C=D1=82=D0=B5&nbsp;=D1=82=D0=B5=D1=85.=D0=B8=D0=BD=D1=84=D0=
+=BE=D1=80=D0=BC=D0=B0=D1=86=D0=B8=D1=8E&nbsp;=D0=BA =D0=B8=D0=BD=D1=86=D0=
+=B8=D0=B4=D0=B5=D0=BD=D1=82=D1=83:</font></p></span></font></font><font col=
+or=3D"#1b2f5b" size=3D"1" face=3D"Segoe UI"><font color=3D"#1b2f5b" size=3D=
+"1" face=3D"Segoe UI"><font color=3D"#1b2f5b" size=3D"1" face=3D"Segoe UI">
+<p dir=3D"ltr" align=3D"left">=D0=9F=D1=80=D0=B0=D0=B2=D0=B8=D0=BB=D0=BE: <=
+span id=3D"application_name" class=3D"smartField application_name" xcontent=
+editable=3D"false" unselectable=3D"on"><span style=3D"display: inline-block=
+;"><span style=3D"line-height: 17px; vertical-align: text-top; padding-righ=
+t: 2px; padding-left: 2px;"><img src=3D"https://kv-inet-gw.corp.ukrtelecom.=
+loc/UserCheck/images/appicons/-211022958_sml.png"></span></span>=
+</span></p>
+<p dir=3D"ltr" align=3D"left">=D0=90=D0=B4=D1=80=D0=B5=D1=81 =D1=81=D0=B0=
+=D0=B9=D1=82=D0=B0: <span id=3D"orig_url" class=3D"smartField orig_url" xco=
+ntenteditable=3D"false" unselectable=3D"on"></span>=
+</p>
+<p dir=3D"ltr" align=3D"left">=D0=9A=D0=B0=D1=82=D0=B5=D0=B3=D0=BE=D1=80=D0=
+=B8=D1=8F: <span id=3D"category" class=3D"smartField category" xcontentedit=
+able=3D"false" unselectable=3D"on"></span></p>
+<p dir=3D"ltr" align=3D"left">=D0=9F=D0=BE=D0=BB=D1=8C=D0=B7=D0=BE=D0=B2=D0=
+=B0=D1=82=D0=B5=D0=BB=D1=8C: <span id=3D"user_name" class=3D"smartField use=
+r_name" xcontenteditable=3D"false" unselectable=3D"on">
+</span></p>
+<p dir=3D"ltr" align=3D"left">IP =D0=B0=D0=B4=D1=80=D0=B5=D1=81: <span id=
+=3D"src_ip" class=3D"smartField src_ip" xcontenteditable=3D"false" unselect=
+able=3D"on"></span></p>
+<p dir=3D"ltr" align=3D"left">=D0=9A=D0=BE=D0=B4 =D1=81=D0=BE=D0=B1=D1=8B=
+=D1=82=D0=B8=D1=8F: <span id=3D"incident_id" class=3D"smartField incident_i=
+d" xcontenteditable=3D"false" unselectable=3D"on">0FDF2EA2</span></p>
+<p dir=3D"ltr" align=3D"left">&nbsp;</p>
+<p dir=3D"ltr" align=3D"left">&nbsp;</p>
+<p dir=3D"ltr" align=3D"left">&nbsp;</p>
+<p dir=3D"ltr" align=3D"left">=D0=BF=D1=80=D0=B8=D0=BD=D1=83=D0=B4=D0=B8=D1=
+=82=D0=B5=D0=BB=D1=8C=D0=BD=D0=B0=D1=8F =D0=B0=D1=83=D1=82=D0=B5=D0=BD=D1=
+=82=D0=B8=D1=84=D0=B8=D0=BA=D0=B0=D1=86=D0=B8=D1=8F =D0=BD=D0=B0&nbsp;=D0=
+=B4=D0=B0=D0=BD=D0=BD=D0=BE=D0=BC =D1=83=D1=81=D1=82=D1=80=D0=BE=D0=B9=D1=
+=81=D1=82=D0=B2=D0=B5&nbsp;=D1=87=D0=B5=D1=80=D0=B5=D0=B7 <a href=3D"https:=
+//kv-inet-gw.corp.ukrtelecom.loc/connect/PortalMain">Captive Portal</a>&nbs=
+p;</p></font></font></font></span></div>
+									</td>
+						</tr>
+						<tr>
+									<td>
+										<div id=3D"usercheck_error_div" unselectable=3D"on">&nbsp;</div>
+									</td>
+						</tr>
+						<tr>
+									<td>
+										<div style=3D"text-align:center;" id=3D"usercheck_return_to_site_=
+div" class=3D"usercheck_message_class">&nbsp;</div>
+									</td>
+						</tr>
+							</tbody></table>
+						</div>
+						<table class=3D"usercheck_buttons_table_class" unselectable=3D"on">
+						<tbody><tr>
+							<td>
+								<center>
+									<div id=3D"usercheck_cancel_div" class=3D"usercheck_ok_button_div_=
+class" style=3D"margin-left: 40%; display: none; margin-top: 0px;">&nbsp;</=
+div>
+								</center>
+							</td>
+							<td>
+								<center>
+									<div id=3D"usercheck_ok_div" class=3D"usercheck_ok_button_div_clas=
+s" style=3D"margin-right: auto; margin-left: auto;">&nbsp;</div>
+								</center>
+							</td>
+						</tr>
+						</tbody></table>
+						<div id=3D"usercheck_logo_img_div" class=3D"usercheck_logo_img_div_cl=
+ass" unselectable=3D"on" style=3D"display: none;">&nbsp;</div>=09
+					</td>
+				</tr>
+				<tr>
+					<td id=3D"usercheck_footer_td" class=3D"usercheck_footer_class userche=
+ck_footer_height_class">
+						<div id=3D"portal_bottom_pane_div">
+						=09
+<!--position: fixed; bottom: -1px; left: 50%; margin-left: -435px; -->
+
+<table id=3D"footer_table_logo" cellpadding=3D"0" cellspacing=3D"0" class=
+=3D"usercheck_footer_table_class footer_no_logo">
+	<tbody><tr>
+		<td class=3D"usercheck_footer_height_class">
+			<div id=3D"usercheck_language_selection_div" class=3D"usercheck_lang_sel=
+ect_div_class" style=3D"display: block;">
+				Language: <select id=3D"usercheck_language_selection" class=3D"userchec=
+k_lang_select_class">
+				<option value=3D"uk">Ukrainian</option><option value=3D"ru">Russian</op=
+tion></select>
+			</div>
+		</td>
+	</tr>
+</tbody></table>						</div>
+					</td>
+				</tr>
+			</tbody></table>
+		</div>
+=09
+
+
+   =20
+
+
+</body></html>
+------MultipartBoundary--oAjhBYkXaWrHnNLXZRUaVYwfcn0q0JxPXkfR4nrDx5----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://kv-inet-gw.corp.ukrtelecom.loc/UserCheck/css/Blob_dynamic_css
+
+@charset "utf-8";
+
+td.headerTitle { font-size: 18px; color: rgb(255, 255, 255); padding-left: =
+10px; background-image: url("/UserCheck/images/SK_IMG_HEADER_LEFT.jpg"); ba=
+ckground-repeat: repeat-x; font-family: tahoma; text-align: left; vertical-=
+align: middle; }
+
+td.headerImg { background-image: url("/UserCheck/images/SK_IMG_HEADER_CENTE=
+R.jpg"); background-repeat: no-repeat; width: 322px; }
+
+.resource_table { background-image: url("/UserCheck/images/resourceListImg.=
+PNG"); background-repeat: no-repeat; opacity: 0.6; width: 100%; height: 100=
+%; padding: 0px; }
+
+td.horizentalSeperator { height: 2px; background-image: url("/UserCheck/ima=
+ges/SK_IMG_MAIN_HORIZONAL_SEPERATOR.png"); background-repeat: repeat-x; }
+
+td.resource_list_icon_hover { width: 25px; height: 38px; background-image: =
+url("/UserCheck/images/SK_IMG_APP_BG_HOVER.png"); background-repeat: repeat=
+-x; }
+
+td.resource_list_caption_hover { font-size: 12px; vertical-align: middle; w=
+idth: 25%; background-image: url("/UserCheck/images/SK_IMG_APP_BG_HOVER.png=
+"); background-repeat: repeat-x; text-align: left; }
+
+td.resource_list_separator_hover { width: 10px; background-image: url("/Use=
+rCheck/images/SK_IMG_APP_BG_HOVER.png"); background-repeat: repeat-x; }
+
+td.resource_list_description_hover { font-size: 12px; vertical-align: middl=
+e; background-image: url("/UserCheck/images/SK_IMG_APP_BG_HOVER.png"); back=
+ground-repeat: repeat-x; text-align: left; }
+
+td.resource_list_menu_show { width: 58px; visibility: visible; background-i=
+mage: url("/UserCheck/images/SK_IMG_EDIT_APP_BG_HOVER.png"); background-rep=
+eat: repeat-x; text-align: left; border: none; padding-left: 5px; padding-r=
+ight: 3px; }
+
+td.resource_list_menu_right_show { width: 4px; font-size: 1px; visibility: =
+visible; background-image: url("/UserCheck/images/SK_IMG_EDIT_APP_BG_RIGHT_=
+HOVER.png"); background-repeat: no-repeat; border: none; }
+
+td.resource_list_left_show { width: 4px; font-size: 1px; visibility: visibl=
+e; background-image: url("/UserCheck/images/SK_IMG_EDIT_APP_BG_LEFT_HOVER.p=
+ng"); background-repeat: no-repeat; border: none; }
+
+.yellowbar_topLeftCorner { background: url("/UserCheck/images/yellowbar_up_=
+left_corner.gif") no-repeat; width: 13px; height: 13px; font-size: 1px; }
+
+.yellowbar_topMidBorder { background: url("/UserCheck/images/yellowbar_stri=
+p_up_line.gif") repeat-x; font-size: 1px; }
+
+.yellowbar_topRightCorner { background: url("/UserCheck/images/yellowbar_up=
+_right_corner.gif") no-repeat; width: 13px; height: 13px; font-size: 1px; }
+
+.yellowbar_midLeftBorder { background: url("/UserCheck/images/yellowbar_str=
+ip_left_line.gif") repeat-y; }
+
+.yellowbar_midRightBorder { background: url("/UserCheck/images/yellowbar_st=
+rip_right_line.gif") repeat-y; }
+
+.yellowbar_bottomLeftCorner { background: url("/UserCheck/images/yellowbar_=
+down_left_corner.gif") no-repeat; width: 13px; height: 13px; }
+
+.yellowbar_bottomMidBorder { background: url("/UserCheck/images/yellowbar_s=
+trip_down_line.gif") repeat-x; }
+
+.yellowbar_bottomRightCorner { background: url("/UserCheck/images/yellowbar=
+_down_right_corner.gif") no-repeat; width: 13px; height: 13px; }
+
+.yellowbar_sepLeft { background: url("/UserCheck/images/yellowbar_sep_left.=
+gif") no-repeat; width: 13px; height: 4px; font-size: 1px; }
+
+.yellowbar_sepMid { background: url("/UserCheck/images/yellowbar_low_top_li=
+ne.gif") repeat-x; font-size: 1px; }
+
+.yellowbar_sepRight { background: url("/UserCheck/images/Syellowbar_sep_rig=
+ht.gif") no-repeat; width: 13px; font-size: 1px; }
+
+.yellowbar_lowLeftBorder { background: url("/UserCheck/images/yellowbar_low=
+_left_line.gif") repeat-y; }
+
+.yellowbar_lowRightBorder { background: url("/UserCheck/images/yellowbar_lo=
+w_right_line.gif") repeat-y; }
+
+.toolbar_table { background: url("/UserCheck/images/SK_IMG_TOOLBAR_BG_STRIP=
+.jpg") repeat-x; padding: 2px; width: 100%; vertical-align: middle; }
+
+.toolbar_separator { background: url("/UserCheck/images/SK_IMG_TOOLBAR_SEPA=
+RATOR.jpg") center center no-repeat; width: 15px; padding-left: 10px; paddi=
+ng-right: 10px; }
+
+.folder_icon { background: url("/UserCheck/images/SK_IMG_FOLDER_ICON.png") =
+0px center no-repeat !important; }
+
+.quarantined_icon { background: url("/UserCheck/images/SK_IMG_SECURE_REPOSI=
+TORY_ICON.png") 0px center no-repeat !important; }
+
+.secureRepository_icon { background: url("/UserCheck/images/SK_IMG_SECURE_R=
+EPOSITORY_ICON.png") 0px center no-repeat !important; }
+
+.approval_icon { background: url("/UserCheck/images/SK_IMG_APPROVAL_ICON.pn=
+g") 0px center no-repeat !important; }
+
+.delete_icon { background: url("/UserCheck/images/SK_IMG_DELETE_ICON.png") =
+0px center no-repeat !important; }
+
+.send_icon { background: url("/UserCheck/images/SK_IMG_SEND_ICON.png") 0px =
+center no-repeat !important; }
+
+.sendToSecure_icon { background: url("/UserCheck/images/SK_IMG_SECURE_REPOS=
+ITORY_ICON.png") 0px center no-repeat !important; }
+
+.approve_icon { background: url("/UserCheck/images/SK_IMG_APPROVE_ICON.png"=
+) 0px center no-repeat !important; }
+
+.decline_icon { background: url("/UserCheck/images/SK_IMG_DECLINE_ICON.png"=
+) 0px center no-repeat !important; }
+
+.logout_icon { background: url("/UserCheck/images/SK_IMG_LOGOUT_ICON.png") =
+0px center no-repeat !important; }
+
+.help_icon { background: url("/UserCheck/images/SK_IMG_HELP_ICON.png") 0px =
+center no-repeat !important; }
+
+.extendTime_icon { background: url("/UserCheck/images/SK_IMG_EXTEND_TIME_IC=
+ON.png") 0px center no-repeat !important; }
+
+.cp_icon { background: url("/UserCheck/images/cp_logo.gif") 0px center no-r=
+epeat !important; height: 47px !important; }
+
+.mainPageToolbar { background: url("/UserCheck/images/SK_IMG_TOOLBAR_BG_STR=
+IP.jpg") 0px center repeat-x !important; border-left: 1px solid rgb(200, 20=
+0, 200) !important; border-right: none !important; border-bottom: none !imp=
+ortant; border-top: none !important; }
+
+.mainPageTitleToolbar { background: url("/UserCheck/images/SK_IMG_TITLE_BAR=
+_BG_STRIP.jpg") 0px center repeat-x !important; height: 26px !important; bo=
+rder-left: 1px solid rgb(200, 200, 200) !important; border-right: none !imp=
+ortant; border-bottom: none !important; border-top: none !important; paddin=
+g: 2px 7px 0px !important; }
+
+.portalErrorMessageTableContainer { width: 100%; cursor: progress; }
+
+.portalErrorMessageTable { padding: 0px; width: 350px; height: 150px; backg=
+round-color: rgb(238, 238, 238); border: 1px solid rgb(170, 170, 170); curs=
+or: auto; }
+
+.portalMessage_title { font-size: 14px; font-weight: bold; color: rgb(255, =
+255, 255); background-color: rgb(76, 109, 204); padding: 10px; }
+
+.portalErrorMessage_button { padding-left: 10px; padding-right: 10px; }
+
+.portalMessageTableContainer { width: 100%; cursor: default; }
+
+.portalMessageTable { padding: 0px; margin: 0px; width: 350px; height: 150p=
+x; background-color: rgb(245, 245, 245); border: 1px solid rgb(170, 170, 17=
+0); cursor: default; }
+
+.portalMessage_button { padding-left: 10px; padding-right: 10px; }
+
+.portalMessageDivHide { display: none; }
+
+.screenShaderHide { display: none; }
+
+.outer { min-height: 100%; margin-left: 170px; background: url("/UserCheck/=
+img/bkg_general.gif") center center white; border-left: 1px solid rgb(205, =
+205, 205); margin-bottom: -18px; color: rgb(0, 0, 0); }
+
+.mainWithMenuView_Body { background: url("/UserCheck/img/bkg_general.gif") =
+center center white; color: rgb(0, 0, 0); vertical-align: top; width: 100%;=
+ }
+
+.BodyMain { background: url("/UserCheck/img/bkg_general.gif") center center=
+ white; color: black; border: 0px none; margin: 0px; padding: 0px; font-sty=
+le: normal; font-variant: normal; font-weight: normal; font-size: 10pt; fon=
+t-family: Tahoma; }
+
+.BodyTitle { background: url("/UserCheck/img/center_strip.gif") center cent=
+er repeat-x white; margin: 0px; padding: 0px; border: 0px none; }
+
+.HelpMain { background: url("/UserCheck/img/bkg_general.gif") center center=
+ white; color: black; margin: 5px; font-style: normal; font-variant: normal=
+; font-weight: normal; font-size: 10pt; font-family: Tahoma; }
+
+.HelpTitle { background: url("/UserCheck/img/center_strip.gif") center cent=
+er repeat-x white; margin: 0px; padding: 0px; }
+
+.SubMenuOffBg { background: url("/UserCheck/img/submenumoff.gif") center ce=
+nter repeat-x rgb(205, 205, 205); height: 22px; border: 0px none; padding: =
+0px; margin: 0px; }
+
+.SubMenuOnBg { background: url("/UserCheck/img/submenumon.gif") center cent=
+er repeat-x rgb(251, 172, 50); height: 22px; border: 0px none; padding: 0px=
+; margin: 0px; }
+
+.Button { background: url("/UserCheck/img/button_mid.gif") repeat-x; border=
+: 0px solid; color: rgb(37, 37, 37); padding: 0px 0px 2px; }
+
+.TabHead { background: url("/UserCheck/img/bkg_head.gif") center top repeat=
+-x rgb(234, 234, 234); }
+
+.ReportsHead { background: url("/UserCheck/img/bkg_head.gif") center top re=
+peat-x rgb(234, 234, 234); }
+
+@media screen {
+  .WizBody, .WizBody p { background: url("/UserCheck/img/bkg_general.gif") =
+center center repeat white; color: black; font-family: Tahoma; margin: 0px;=
+ padding: 0px; border: 0px; }
+  .WizBodyWait { background: url("/UserCheck/img/bkg_general.gif") center c=
+enter repeat white; color: black; font-family: Tahoma, Verdana; margin: 0px=
+; padding: 0px; border: 0px; cursor: wait; }
+  .WizSide { background: url("/UserCheck/img/center_strip.gif") center cent=
+er repeat-x white; }
+  .WizHeader { font: 16pt Arial; color: rgb(59, 96, 185); }
+  .WizInputAsText { border: 0px solid; color: black; }
+}
+------MultipartBoundary--oAjhBYkXaWrHnNLXZRUaVYwfcn0q0JxPXkfR4nrDx5----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://kv-inet-gw.corp.ukrtelecom.loc/UserCheck/css/Blob_static.css
+
+@charset "utf-8";
+
+html { height: 100%; max-height: 100%; padding: 0px; margin: 0px; }
+
+#container { min-height: 100%; width: 100%; padding: 0px; margin: 0px; vert=
+ical-align: top; }
+
+html #container { height: 100%; max-height: 100%; padding: 0px; margin: 0px=
+; }
+
+body { height: 100%; max-height: 100%; width: 100%; font-family: tahoma; ma=
+rgin: 0px; padding: 0px; }
+
+img { vertical-align: middle; }
+
+table { }
+
+textarea { font-family: tahoma; font-size: 12px; }
+
+tr.hide { display: none; }
+
+tr.show { display: block; }
+
+td.hide { display: none; }
+
+td.show { display: block; }
+
+td.normalAlign { text-align: left; }
+
+td.oppositeAlign { text-align: right; }
+
+td.centerAlign { text-align: center; }
+
+div { vertical-align: top; }
+
+div.show { display: block; }
+
+div.disable { opacity: 0.5; }
+
+div.hide { display: none; }
+
+hr { height: 1px; color: rgb(51, 51, 51); }
+
+a, :visited { color: rgb(102, 102, 255); text-decoration: none; cursor: poi=
+nter; }
+
+a:hover { color: rgb(153, 153, 255); text-decoration: none; cursor: pointer=
+; }
+
+a.disable { color: rgb(136, 136, 136); text-decoration: none; cursor: defau=
+lt; }
+
+a.disable:hover { color: rgb(136, 136, 136); text-decoration: none; cursor:=
+ default; }
+
+.portal_link { color: rgb(0, 72, 242); text-decoration: underline; cursor: =
+pointer; }
+
+.portal_link_small { color: rgb(0, 72, 242); text-decoration: underline; cu=
+rsor: pointer; font-size: 10px; font-weight: normal; }
+
+.portal_link_hover { color: rgb(51, 51, 255); text-decoration: underline; c=
+ursor: pointer; }
+
+.portal_disabled_link { color: rgb(102, 102, 102); text-decoration: none; c=
+ursor: inherit; }
+
+.userInteractionDivShow { background-color: rgb(255, 255, 255); position: a=
+bsolute; display: block; float: left; top: 48%; left: 42%; z-index: 300; bo=
+rder: none; cursor: default; }
+
+.userInteractionDivDisabled { background-color: rgb(255, 255, 255); positio=
+n: absolute; display: block; float: left; top: 48%; left: 42%; z-index: 110=
+; border: none; cursor: default; opacity: 0.5; }
+
+.userInteractionDivHide { display: none; }
+
+.portalErrorMessageDivShow { position: absolute; display: block; float: lef=
+t; top: 30%; z-index: 1000; width: 100%; border: none; }
+
+.portalErrorMessageDivHide { display: none; }
+
+.portalMessageDivShow { position: absolute; display: block; float: left; to=
+p: 20%; z-index: 200; width: 100%; border: none; }
+
+.portalMessageDivDisabled { position: absolute; display: block; float: left=
+; top: 20%; z-index: 110; width: 100%; border: none; opacity: 0.5; }
+
+.portalMessage_submessage { font-size: 9px; }
+
+.portalMessage_validation_submessage { font-size: 9px; font-weight: bold; c=
+olor: rgb(170, 0, 0); }
+
+.screenShaderShow { position: absolute; display: block; float: left; top: 0=
+px; left: 0px; width: 100%; height: 100%; overflow: hidden; z-index: 190; c=
+ursor: default; }
+
+.screenErrorShaderShow { position: absolute; display: block; float: left; t=
+op: 0px; left: 0px; width: 100%; height: 100%; overflow: hidden; z-index: 9=
+00; cursor: default; }
+
+.userInteractionTable { margin: 10px; text-decoration: blink; border: 2px s=
+olid rgb(43, 56, 85); }
+
+td.headerLogo { background: rgb(255, 255, 255); vertical-align: middle; wid=
+th: 100px; }
+
+table.header { height: 38px; border-bottom: 1px solid rgb(200, 200, 200); }
+
+tr.firstRowInHeader { border-bottom: 1px solid rgb(200, 200, 200); }
+
+tr.secondRowInHeader { border-top: 1px black; }
+
+td.greeting { font-size: 12px; text-align: left; border-top: 1px solid; }
+
+td.table { border-top: 1px solid; }
+
+td.timeToAutoLogout { font-size: 12px; text-align: center; border-right: th=
+in solid darkgray; white-space: nowrap; padding-right: 5px; }
+
+td.lastLogin { font-size: 12px; text-align: center; border-right: thin soli=
+d darkgray; white-space: nowrap; padding-right: 5px; }
+
+td.signOut { font-size: 12px; color: rgb(102, 102, 255); text-decoration: u=
+nderline; cursor: pointer; white-space: nowrap; padding-right: 5px; }
+
+.resource_list_table { padding: 0px; border: none; width: 100%; }
+
+div.resource_enabled { width: 100%; }
+
+div.resource_disabled { width: 100%; }
+
+td.resource_list_icon { width: 25px; height: 38px; }
+
+td.resource_list_caption { font-size: 12px; vertical-align: middle; width: =
+25%; text-align: left; }
+
+td.resource_list_separator { width: 10px; }
+
+td.resource_list_description { font-size: 12px; vertical-align: middle; tex=
+t-align: left; }
+
+td.resource_list_description_disabled { font-size: 12px; color: rgb(102, 10=
+2, 102); vertical-align: middle; text-align: left; }
+
+td.resource_list_menu_hide { width: 58px; visibility: hidden; padding-left:=
+ 5px; padding-right: 3px; }
+
+td.resource_list_menu_right_hide { width: 4px; font-size: 1px; visibility: =
+hidden; border: none; }
+
+td.resource_list_left_hide { width: 4px; font-size: 1px; visibility: hidden=
+; border: none; }
+
+div.resource_list_tooltip_show { display: block; position: absolute; backgr=
+ound-color: rgb(255, 255, 255); border: 1px solid rgb(51, 51, 51); }
+
+div.resource_list_tooltip_hide { display: none; }
+
+a.td.resource_list_title { text-align: left; }
+
+div.resource_edit_show { display: block; float: left; width: 100%; }
+
+div.resource_edit_hide { display: none; }
+
+table.resource_edit { width: 100%; text-align: left; border: 1px solid rgb(=
+204, 204, 204); }
+
+div.resource_delete_show { display: block; float: left; width: 100%; }
+
+div.resource_delete_hide { display: none; }
+
+table.resource_delete { width: 100%; text-align: left; border: 1px solid rg=
+b(204, 204, 204); }
+
+.advanceButton { font-size: 10px; margin: 0cm; padding: 0.05cm 0.1cm; curso=
+r: pointer; }
+
+input:disabled { background-color: rgb(192, 192, 192); }
+
+.div_expanded { height: 100%; width: 100%; min-height: 100%; }
+
+.div_expanded_shaded { height: 100%; width: 100%; min-height: 100%; opacity=
+: 0.3; cursor: default; }
+
+.yellowbarDiv { position: absolute; display: none; float: left; top: 0px; l=
+eft: 30%; width: 500px; height: 300px; z-index: 195; border: 0px none; }
+
+.yellowbarTable { border: none; width: 100%; height: 100%; font-size: 1px; =
+}
+
+.yellowbar_Numbering { font-family: Arial; color: rgb(54, 54, 54); font-siz=
+e: 30px; font-weight: bold; vertical-align: middle; text-align: left; paddi=
+ng: 15px; }
+
+.yellowbar_text { font-family: Arial; color: rgb(90, 90, 90); font-size: 12=
+px; font-weight: bold; vertical-align: middle; text-align: left; padding: 1=
+5px; }
+
+.yellowbar_link { font-family: Arial; color: rgb(1, 68, 189); font-size: 12=
+px; font-weight: normal; vertical-align: middle; text-align: left; padding:=
+ 5px; cursor: pointer; background: rgb(255, 255, 255); }
+
+.yellowbar_arrow { height: 13px; font-size: 1px; }
+
+.yellowbar_body { background: rgb(237, 237, 237); width: 100%; height: 100%=
+; }
+
+.clientDeploymentDiv { position: absolute; top: 1px; }
+
+table.progressIndicator { border: 0px none; padding: 0px; border-spacing: 1=
+px; border-collapse: collapse; }
+
+td.progressIndicator { background-color: rgb(0, 0, 255); width: 5px; height=
+: 5px; padding: 0px; }
+
+.sessionInfo_username { font-weight: bold; }
+
+.td.capsLockWarning { height: 15px; }
+
+.capsLockWarning_show { font-size: 10px; color: rgb(255, 85, 0); font-weigh=
+t: bold; display: block; position: absolute; }
+
+.capsLockWarning_hide { display: none; }
+
+.button_text { font-family: sans-serif; font-size: 11px; padding-left: 8px;=
+ vertical-align: middle; }
+
+.clickable { cursor: pointer; }
+
+.graybg { background: rgb(244, 244, 244) !important; }
+
+.bluebg { background: rgb(202, 217, 236) !important; }
+
+.toolbarPageTitle { font-family: Arial !important; font-weight: bold !impor=
+tant; font-size: 14px !important; color: rgb(37, 37, 42) !important; }
+
+.portalWestPane { border-right: 1px solid rgb(200, 200, 200); margin-right:=
+ 3px; }
+
+.gridContainerCls { border-left: 1px solid rgb(200, 200, 200) !important; b=
+order-bottom: 1px solid rgb(200, 200, 200) !important; border-top: 1px soli=
+d rgb(200, 200, 200) !important; }
+
+.mainPageToolbar_topBorder { border-top: 1px solid rgb(200, 200, 200) !impo=
+rtant; }
+
+.mainPageToolbar_bottomBorder { border-bottom: 1px solid rgb(200, 200, 200)=
+ !important; }
+
+.statusBar { font-size: 11px; color: rgb(42, 46, 50); vertical-align: middl=
+e; background: rgb(244, 244, 244) !important; padding-left: 8px !important;=
+ padding-right: 8px !important; padding-top: 5px !important; }
+
+.mainToolBar_username { font-weight: bold !important; }
+
+.subTitle { padding-right: 23px !important; }
+
+.forceMinWidth { width: 400px !important; }
+
+.forceRightPadding { padding-right: 23px !important; }
+
+.main_portal_area { width: 100%; }
+
+html, body { height: 100%; }
+
+* html .outer { height: 100%; margin-left: 170px; }
+
+.main_layout_header { position: absolute; top: 0px; left: 0px; width: 100%;=
+ height: 50px; background: white; border-bottom: 1px solid rgb(205, 205, 20=
+5); overflow: hidden; color: rgb(0, 0, 0); }
+
+.main_layout_left { position: absolute; width: 170px; float: left; margin-l=
+eft: -171px; }
+
+* html .main_layout_left { margin-right: -3px; }
+
+.main_layout_left p { padding-left: 3px; padding-right: 2px; }
+
+.main_layout_footer { width: 100%; clear: both; height: 15px; position: rel=
+ative; background: white; }
+
+* html .main_layout_footer { height: 15px; }
+
+.main_layout_clearheader { height: 51px; }
+
+.main_layout_clearfooter { clear: both; height: 15px; }
+
+div, p { margin-top: 0px; }
+
+* html .main_layout_center { height: 1%; margin-bottom: 12px; }
+
+.mainWithMenuView_Table { width: 100%; height: 100%; border: none; padding:=
+ 0px; margin: 0px; }
+
+.mainWithMenuView_Top { height: 1px; background: white; color: rgb(0, 0, 0)=
+; vertical-align: top; font-size: 2px; }
+
+.mainWithMenuView_Left { width: 170px; border-right: 1px solid rgb(205, 205=
+, 205); vertical-align: top; }
+
+.mainWithMenuView_Bottom { height: 15px; }
+
+.copyright { color: rgb(0, 0, 0); font-family: tahoma; font-size: 10px; mar=
+gin: 0px; padding: 3px; text-align: center; }
+
+.DummyStyle { }
+
+.BodyFrame { background: white; margin: 0px; padding: 0px; border: 0px; }
+
+.BodySide { background: white; margin: 10px; width: 150px; text-align: left=
+ !important; }
+
+.BodySubMenu { background: white; margin: 0px; padding: 0px; border: 0px; }
+
+.TitleBig { font: bold 18pt Arial; color: rgb(59, 96, 185); }
+
+.TitleSmall { font: 12pt Arial; color: rgb(59, 96, 185); }
+
+.Header { color: rgb(77, 77, 77); font: bold 12pt Verdana; }
+
+.PageTH { background: rgb(251, 172, 50); }
+
+.PageTH td { border-bottom: 1px solid rgb(88, 88, 88); }
+
+.PageTH table tr td { border-bottom: 0px; }
+
+.PageTR { color: black; }
+
+.PageTB { text-align: left !important; }
+
+.TradeMark { font-size: 8pt; color: black; }
+
+.SmallBold { font-size: 8pt; font-weight: bold; }
+
+.Smaller { font-size: 8pt; }
+
+.SectionHeader { border-bottom: 1px solid darkgray; font-weight: bold; }
+
+@media print {
+  .PrintInvisible { visibility: hidden; }
+}
+
+@media screen {
+  .PrintInvisible { }
+}
+
+.HelpSide { background: white; border-right: 1px solid rgb(205, 205, 205); =
+}
+
+.HelpTitleBig { color: rgb(59, 96, 185); font: 20pt Arial; }
+
+.TWarnings { color: white; font-weight: bold; }
+
+.MsgErr { color: rgb(204, 0, 0); font-weight: bold; }
+
+.MsgWarn { color: rgb(204, 102, 51); font-weight: bold; }
+
+.MsgOK { color: green; font-weight: bold; }
+
+.MsgDis { color: gray; }
+
+.MsgRegErr { color: rgb(204, 0, 0); }
+
+.MsgRegWarn { color: rgb(204, 102, 51); }
+
+.MsgRegOK { color: green; }
+
+.Status { }
+
+.PopLayerText { background: rgb(255, 255, 204); color: black; font: 10pt Ta=
+homa; border: 1px solid black; }
+
+.MenuButton, .MenuHelpButton { font: 10pt Tahoma; height: 30px; border-bott=
+om: 1px solid rgb(251, 172, 50); text-align: left !important; }
+
+.MenuOff { color: rgb(104, 104, 104); text-decoration: none; text-align: le=
+ft !important; }
+
+.MenuOff:hover, menuhelpoff:hover { color: rgb(255, 55, 7); }
+
+.MenuOn { color: rgb(233, 148, 17); font: bold 10pt Tahoma; text-decoration=
+: none; text-align: left !important; }
+
+.MenuOn:hover, .MenuHelpOn:hover { color: rgb(255, 55, 7); }
+
+.MenuHelpOn { color: rgb(233, 148, 17); font: bold 10pt Tahoma; text-decora=
+tion: none; }
+
+.MenuHelpOff { color: rgb(77, 77, 77); text-decoration: none; }
+
+.SubMenuButton { font: 10pt Tahoma; text-align: left; }
+
+.SubMenu { border-bottom: 1px solid rgb(88, 88, 88); }
+
+.SubMenuOff { color: rgb(7, 7, 7); text-decoration: none; }
+
+.SubMenuOff:hover { color: rgb(251, 172, 50); }
+
+.SubMenuOn { color: rgb(7, 7, 7); text-decoration: none; }
+
+.SubMenuOn:hover { color: red; }
+
+.ButtonDis { background: transparent; color: gray; border: 0px solid; paddi=
+ng: 0px 0px 2px; cursor: wait; }
+
+.ButtonOff { background: transparent; color: rgb(37, 37, 37); border: 0px s=
+olid; padding: 0px 0px 2px; }
+
+.ButtonOn { background: transparent; color: rgb(255, 158, 0); border: 0px s=
+olid; padding: 0px 0px 2px; cursor: pointer; }
+
+.ButtonLink { background-repeat: no-repeat; background-position: left cente=
+r; padding-bottom: 3px; margin: 0px; }
+
+.ButtonLinkDis { background: transparent; color: gray; border: 0px solid; p=
+adding: 0px 0px 0px 18px; margin: 0px; text-align: left; vertical-align: mi=
+ddle; text-decoration: none; cursor: default; }
+
+.ButtonLinkOff { background: transparent; color: rgb(0, 54, 255); border: 0=
+px solid; padding: 0px 0px 0px 18px; margin: 0px; text-align: left; vertica=
+l-align: middle; text-decoration: underline; }
+
+.ButtonLinkOn { background: transparent; color: rgb(51, 68, 255); border: 0=
+px solid; padding: 0px 0px 0px 18px; margin: 0px; text-align: left; vertica=
+l-align: middle; text-decoration: underline; cursor: pointer; }
+
+.ButtonRealLink { color: rgb(0, 54, 255); padding-top: 3px; text-decoration=
+: underline; }
+
+.ButtonRealLink:hover { color: rgb(51, 68, 255); cursor: pointer; }
+
+.Slider { color: black; text-align: left; }
+
+.SliderDis { color: gray; text-align: left; }
+
+.SliderBg { position: relative; z-index: 5; }
+
+.SliderDrag { position: absolute; z-index: 10; visibility: hidden; }
+
+.Tab { background: rgb(228, 228, 228); color: black; border: 1px solid rgb(=
+187, 187, 187); }
+
+.TabHead th, .TabHead td { border-bottom: 1px solid rgb(187, 187, 187); fon=
+t: bold 10pt Tahoma !important; color: rgb(87, 87, 87) !important; padding:=
+ 5px !important; }
+
+.TabRow0 { background: rgb(228, 228, 228); color: black; }
+
+.TabRow1 { background: white; color: black; text-align: left !important; }
+
+.TabRow2 { background: white; color: black; text-align: center !important; =
+}
+
+.TabRow3 { background: rgb(228, 228, 228); color: black; text-align: left !=
+important; }
+
+.TabFieldHeader { color: darkblue; }
+
+.TabPorts { background: rgb(246, 137, 57); color: black; }
+
+.TabDiag { background: rgb(37, 37, 37); color: black; }
+
+.TabBorBt { border-bottom: 1px solid rgb(187, 187, 187); }
+
+.TabBorLf { border-left: 1px solid rgb(187, 187, 187); }
+
+.TabBorBtLf { border-bottom: 1px solid rgb(187, 187, 187); border-left: 1px=
+ solid rgb(187, 187, 187); }
+
+.TabH { background: rgb(37, 37, 37); }
+
+.TabH td { background: rgb(228, 228, 228); color: black; }
+
+.RepTab { background: rgb(228, 228, 228); }
+
+.ReportsHead th, .TabHead td { border-bottom: 1px solid rgb(187, 187, 187);=
+ }
+
+.ReportsMsg { background: rgb(8, 119, 198); }
+
+.ReportsMsg td { color: white; }
+
+.ReportsMsg td a { color: rgb(255, 244, 197); text-decoration: none; }
+
+.ReportsMsg td a:hover { text-decoration: underline; }
+
+.ReportsAccept { background: green; }
+
+.ReportsAccept td { color: white; }
+
+.ReportsAccept td a { color: rgb(255, 255, 0); text-decoration: none; }
+
+.ReportsAccept td a:hover { text-decoration: underline; }
+
+.ReportsBlocked { background: red; }
+
+.ReportsBlocked td { color: white; }
+
+.ReportsBlocked td a { color: rgb(255, 255, 0); text-decoration: none; }
+
+.ReportsBlocked td a:hover { text-decoration: underline; }
+
+.ReportsUsrRule { background: orange; }
+
+.ReportsUsrRule td { color: black; }
+
+.ReportsUsrRule td a { color: rgb(51, 102, 102); text-decoration: none; }
+
+.ReportsUsrRule td a:hover { text-decoration: underline; }
+
+.RepLeg { color: black; font-size: 8pt; }
+
+.GraphAxisHead { color: black; font-size: 10pt; }
+
+.GraphAxisData { color: black; font-size: 8pt; }
+
+.GraphLeg { color: black; font-size: 8pt; }
+
+@media print {
+  .WizBody, .WizBody p, .WizBodyWait, .WizSide { color: black; font-size: 1=
+0pt; border-collapse: collapse; }
+  .WizHeader { font-weight: bold; font-size: 120%; }
+  .WizInputAsText { color: black; border: 0px solid; }
+}
+
+.WizTForm { width: 120px; }
+
+.WizTForm2 { width: 60px; }
+
+.WizTForm3 { width: 240px; }
+
+.WizTTime { color: darkblue; }
+
+.NetText { color: black; }
+
+.NetTextBox, .NetNotActive { color: rgb(32, 0, 173); }
+
+.NetNoLicense { color: red; }
+
+.NetLicensed { color: green; }
+
+.InternalScrollDiv1 { background: rgb(255, 255, 255); color: black; font-fa=
+mily: Arial; font-size: 10pt; border: 1px solid rgb(102, 102, 102); overflo=
+w: auto; }
+
+.InternalScrollDiv2 { background: rgb(255, 255, 255); color: black; font-fa=
+mily: Arial; font-size: 10pt; padding: 0px; margin: 2px; border: 0px; overf=
+low: auto; }
+
+.InternalScrollDiv3 { background: rgb(255, 255, 255); color: black; font-fa=
+mily: Arial; font-size: 10pt; padding: 0px; margin: 0px; border-width: 0px =
+0px 1px; border-top-style: initial; border-top-color: initial; border-left-=
+style: initial; border-left-color: initial; border-right-style: initial; bo=
+rder-right-color: initial; border-bottom-style: solid; border-bottom-color:=
+ rgb(102, 102, 102); overflow: auto; }
+
+.SmarDefTreeHead td { color: black; font-weight: bold; border-bottom: 1px s=
+olid rgb(102, 102, 102); padding-bottom: 2px; margin-bottom: 2px; }
+
+.SmarDefDesc td { color: black; border-width: 0px 0px 1px; border-style: so=
+lid; border-top-color: initial; border-right-color: initial; border-left-co=
+lor: initial; border-image: initial; text-decoration: none; font-weight: 40=
+0; border-bottom-color: rgb(102, 102, 102); padding-bottom: 2px; margin-bot=
+tom: 2px; }
+
+.SmarDefTreeObj { color: black; border: 0px solid; text-decoration: none; f=
+ont-weight: 400; }
+
+.SmarDefTreeObjSel { color: black; border: 0px solid; text-decoration: none=
+; font-weight: bold; }
+
+.PopBody { background: rgb(204, 204, 204); font-family: Arial, Verdana; mar=
+gin: 1px; }
+
+.PopBody h2, .PopBody p, .PopBody pre { color: black; }
+
+.Sbar { background: white; margin: 0px; border-top: 1px solid rgb(205, 205,=
+ 205); padding: 0px 0px 0px 15px; }
+
+.SbarHead { color: rgb(34, 34, 34); font: 8pt Tahoma; }
+
+.SbarOK { color: rgb(23, 138, 8); font: bold 8pt Tahoma; }
+
+.SbarDiscon { color: red; }
+
+.SbarPend { color: blue; }
+
+.SbarTime { color: rgb(23, 138, 8); font: 7pt Tahoma; }
+
+.Link { color: rgb(51, 68, 255); text-decoration: none; }
+
+.Link:hover { color: rgb(51, 68, 255); text-decoration: underline; }
+
+.frmElm { width: 200px; }
+
+.frmElmS { width: 110px; }
+
+.frmElmS2 { width: 94px; }
+
+.frmElmS3 { width: 150px; }
+
+.defaultPadding { padding: 5px; }
+
+div#eScreen { background: url("..img/screenBG.gif") repeat; }
+
+table.dialogWindow { background-color: white; border-collapse: collapse; }
+
+.dialogWindow th { background-color: silver; padding: 4px; border-collapse:=
+ collapse; border: 0px; cursor: move; }
+
+.dialogWindow th img { cursor: pointer; margin: 3px 3px 0px 0px; }
+
+.dialogWindow td { border-collapse: collapse; border: 0px; padding: 0px; }
+
+.dialogWindow iframe { border: 0px; margin: 0px; }
+------MultipartBoundary--oAjhBYkXaWrHnNLXZRUaVYwfcn0q0JxPXkfR4nrDx5----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://kv-inet-gw.corp.ukrtelecom.loc/UserCheck/css/UserCheckCSS
+
+@charset "utf-8";
+
+p { margin: 0px; }
+
+.portalMessage_title { font-size: 18px; font-weight: bold; color: rgb(255, =
+255, 255); background: url("/UserCheck/img/pop_up_banner.png") center cente=
+r repeat-x; height: 60px; }
+
+.portalMessage_title_td { padding-top: 13px; }
+
+.portalMessageTableContainer { font-family: "Segoe UI"; width: 100%; cursor=
+: default; }
+
+.usercheck_body_background_class { background: center center repeat scroll =
+rgb(247, 247, 247); }
+
+.usercheck_main_background_class { background: center center repeat-y scrol=
+l; }
+
+.usercheck_content_table_class { position: relative; width: 500px; table-la=
+yout: fixed; margin-left: auto; margin-right: auto; margin-top: 50px; text-=
+align: center; }
+
+.usercheck_buttons_table_class { position: relative; margin-top: 0px; width=
+: 400px; table-layout: fixed; margin-left: auto; margin-right: auto; text-a=
+lign: center; }
+
+.usercheck_title_class { position: relative; margin-top: 20px; margin-left:=
+ auto; margin-right: auto; font-family: "Segoe UI"; font-size: 40px; font-w=
+eight: 100; color: rgb(51, 51, 51); overflow-wrap: break-word; max-width: 6=
+00px; text-align: center; }
+
+.usercheck_message_icon_class { margin-right: auto; margin-left: auto; posi=
+tion: relative; margin-top: 35px; width: auto; height: auto; text-align: ce=
+nter; }
+
+.usercheck_message_icon_column { width: 70px; }
+
+.usercheck_red_highlight { border: 1px solid red; }
+
+.usercheck_red_no_highlight { }
+
+.usercheck_logo_img_div_class { background: url("/UserCheck/img/cpnewlogo_1=
+.png") center center no-repeat scroll transparent; display: block; position=
+: relative; margin-top: 30px; margin-right: auto; margin-left: auto; height=
+: 30px; }
+
+.incident_id { color: rgb(124, 124, 124); }
+
+.orig_url { color: rgb(27, 129, 255); }
+
+.usercheck_message_class { margin-right: auto; margin-left: auto; position:=
+ relative; margin-top: 0px; font-family: "Segoe UI"; font-size: 14px; color=
+: rgb(51, 51, 51); line-height: 20px; text-align: center; max-width: 500px;=
+ min-width: 500px; overflow-wrap: break-word; }
+
+.usercheck_url_class { font-family: "Segoe UI"; font-size: 14px; line-heigh=
+t: 20px; text-align: left; max-width: 335px; text-decoration: underline; co=
+lor: rgb(55, 120, 255); overflow-wrap: break-word; }
+
+.usercheck_url_class:hover { color: rgb(27, 47, 91); text-decoration: under=
+line; }
+
+.usercheck_disabled_url_class { color: rgb(27, 47, 91); text-decoration: no=
+ne; cursor: text; }
+
+.usercheck_disabled_url_class:hover { color: rgb(27, 47, 91); text-decorati=
+on: none; cursor: text; }
+
+.usercheck_textual_input_class { line-height: normal; padding: 2px; margin-=
+left: -1px; margin-top: 30px; width: 328px; max-width: 328px; min-width: 32=
+8px; overflow: hidden auto; text-align: left; }
+
+.usercheck_textual_input_class_required { color: rgb(143, 143, 143); }
+
+.usercheck_header_class { vertical-align: top; text-align: center; height: =
+66px; background-color: rgb(255, 255, 255); border-bottom: 1px solid rgb(19=
+9, 199, 199); }
+
+.usercheck_header_table_class { margin-left: auto; margin-right: auto; marg=
+in-top: 0px; width: 100%; height: 60px; }
+
+.usercheck_company_logo_class { position: relative; margin: 10px auto auto;=
+ text-align: center; max-width: 176px; max-height: 52px; }
+
+.usercheck_header_left_class { }
+
+.usercheck_header_center_class { }
+
+.usercheck_header_right_class { }
+
+.usercheck_header_right_empty_class { }
+
+.usercheck_page_title_class { position: relative; margin-left: auto; margin=
+-right: auto; text-align: left; font-family: "Segoe UI"; font-size: 23px; f=
+ont-weight: 100; color: rgb(255, 255, 255); top: -12px; user-select: text; =
+}
+
+.usercheck_footer_table_class { margin-left: auto; margin-right: auto; widt=
+h: 100%; }
+
+.footer_logo { }
+
+.footer_no_logo { }
+
+.usercheck_footer_height_class { height: 40px; vertical-align: bottom; }
+
+.usercheck_footer_class { position: relative; margin-top: 80px; margin-bott=
+om: 10px; vertical-align: bottom; text-align: right; }
+
+.usercheck_lang_select_div_class { margin-left: 60%; font-family: "Segoe UI=
+"; font-size: 14px; color: rgb(51, 51, 51); }
+
+.usercheck_lang_select_class { float: right; font-family: "Segoe UI"; font-=
+size: 14px; color: rgb(51, 51, 51); }
+
+.usercheck_ok_button_div_class { width: 110px; }
+
+.usercheck_middle_button_div_class { width: 110px; }
+
+a.button { background: right 0px rgb(74, 74, 74); display: block; height: 2=
+8px; margin-top: 15px; padding: 0px; text-decoration: none; cursor: pointer=
+; text-align: center; border: 1px solid rgb(44, 44, 44); border-radius: 2px=
+; }
+
+a.button span { background: left 0px rgb(74, 74, 74); display: block; line-=
+height: 28px; padding: 0px; font-family: "Segoe UI"; font-weight: 600; font=
+-size: 14px; color: rgb(255, 255, 255); cursor: pointer; }
+
+a.SendButtonNormal { background: url("/UserCheck/img/sendImg.png") no-repea=
+t scroll; height: 15px; padding-right: 95px; padding-bottom: 10px; padding-=
+top: 0px; }
+
+a.cancel_button span { padding: 0px; }
+
+a.buttonHover { background-position: right -41px; }
+
+a.buttonHover span { background-position: left -41px; }
+
+a.buttonActive { background-position: right -82px; }
+
+a.buttonActive span { background-position: left -82px; }
+
+a.buttonDisabled { background-position: right -123px; cursor: default; }
+
+a.buttonDisabled span { color: rgb(186, 186, 186); display: block; line-hei=
+ght: 41px; padding: 0px 22px 0px 25px; cursor: default; background-position=
+: left -123px; }
+
+a.buttonDisabled:hover { color: rgb(186, 186, 186); }
+------MultipartBoundary--oAjhBYkXaWrHnNLXZRUaVYwfcn0q0JxPXkfR4nrDx5----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://kv-inet-gw.corp.ukrtelecom.loc/UserCheck/img/cpnewlogo_1.png
+
+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
+A/5Jvj8lm5MoAAAAAElFTkSuQmCC
+
+------MultipartBoundary--oAjhBYkXaWrHnNLXZRUaVYwfcn0q0JxPXkfR4nrDx5----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://kv-inet-gw.corp.ukrtelecom.loc/UserCheck/images/interactions/%7B4AFE3457-43ED-4799-9571-E8BF3BA2E57E%7D.png
+
+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
+
+------MultipartBoundary--oAjhBYkXaWrHnNLXZRUaVYwfcn0q0JxPXkfR4nrDx5----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://kv-inet-gw.corp.ukrtelecom.loc/UserCheck/img/block.png
+
+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
+
+------MultipartBoundary--oAjhBYkXaWrHnNLXZRUaVYwfcn0q0JxPXkfR4nrDx5----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://kv-inet-gw.corp.ukrtelecom.loc/UserCheck/images/appicons/-211022958_sml.png
+
+iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+bWFnZVJlYWR5ccllPAAAAmBJREFUeNqkkt1LU2Ecx7/nhR03cBWudFkrWS86SBAzMC/aAiGWaS9Q
+zDLqquZFN93b6o9oSDemQhdB3UirrBDpJm2I0chpIc6wBdo21HneT89zNvHMeVUPfDnneZ7v78Pv
+fH+HMQwD/7OYTcDNyLD1/BxRmKi5uI8TRYleW02DkRvgtwFriPoqnEvhBi+LM423oBH+wGhv7fpK
+U6cuH6SQR0TpzQJ2G6Cv6tBk+EjbCIItV8AxadRUueCsXkBX4ASaG+toV33WAiug27FnPuz2TcFe
+ycNhEzCev4eFXy9w1/8JvqMdCJxuIxVJCuneCRC+3n4HHM+Ct7EYlW+bT6/7PBiGhEUM+Y1lgJ9A
+MZ8ywKnaahc0VYcq65DyGq7ufwuGE0BzplFPJZ7CYJZM744ZkFqE6sexsaqiTrkERWehaIVzjSj+
+YwC6Vjp26xTii+mV1sO1e3Ht+LjZdvRjK2RRR1fjczgcHtKZAV2tAVcYa1kH0YkvSUgqIFIpwFpG
+wXpWwcCbC2YXvaGv8HkjKP4TpYChhz3D32bn+yemtyBN7vvI5xR4XRdNwHQiibnv8/3UW/YnBoNB
+YXf92RbWvqu3vqEh5Dvmxcv3HeY3X25/hURyDrPJmWf6Ru5xdubDZCwWk0mtYQU4bTbbAbL3ODwn
+O7nKfQGGr/DQO0MVF7XV3+/yqfgIwzApWZZ/EsAa8erWECWWZZclSVLzqc9PyOUgMXMmwDA08i6p
+qrouCEKWelGY7NYUaEt+v/+P3W7PERMriiJDRe/I3qBSFEXPZDLa2NiY1vNgyCjJ4F/XXwEGANnG
+EmBSOzFoAAAAAElFTkSuQmCC
+
+------MultipartBoundary--oAjhBYkXaWrHnNLXZRUaVYwfcn0q0JxPXkfR4nrDx5------
